@@ -1,6 +1,6 @@
 {
   "name": "log-date",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -16,9 +16,10 @@
   },
   "homepage": "https://github.com/1thebestfullstackdeveloper/log-date#readme",
   "keywords": [
-    "js",
-    "Date",
-    "logger"
+    "JS",
+    "Time",
+    "Milliseconds",
+    "loger"
   ],
   "description": "Log time"
 }
