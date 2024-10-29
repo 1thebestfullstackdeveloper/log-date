@@ -1,0 +1,19 @@
+{
+  "name": "log-date",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/1thebestfullstackdeveloper/log-date.git"
+  },
+  "author": "1thebestfullstackdeveloper@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1thebestfullstackdeveloper/log-date/issues"
+  },
+  "homepage": "https://github.com/1thebestfullstackdeveloper/log-date#readme",
+  "description": ""
+}
